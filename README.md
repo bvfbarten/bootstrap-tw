@@ -4,9 +4,9 @@ This is beneficial to me in that the libraries compliment each other incredibly 
 
 **Requirements**
 
-tailwindcss as per [https://tailwindcss.com/docs/installation](Tailwind CSS)
+tailwindcss as per [Tailwind CSS](https://tailwindcss.com/docs/installation)
 
-npm install -D tailwindcss
-npx tailwindcss init
+* npm install -D tailwindcss
+* npx tailwindcss init
 
 modify the tailwind.config.css file content to the location of your html files
